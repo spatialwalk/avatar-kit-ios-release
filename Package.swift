@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AvatarKit",
-            url: "https://github.com/spatialwalk/avatar-kit-ios-release/releases/download/v1.0.0-beta.27/AvatarKit_202604060141.zip",
-            checksum: "13888306dc2d32d360df256a0630e076c66e2d686c952c750d263ada1facf19c"
+            url: "https://github.com/spatialwalk/avatar-kit-ios-release/releases/download/v1.0.0-beta.28/AvatarKit_202604142117.zip",
+            checksum: "2517b38ac811ed3d5dba0477ebd7979643501b2c2c7fedb9991618eb89de9310"
         )
     ]
 )
